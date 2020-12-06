@@ -18,7 +18,7 @@ h1{
 h2{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
-  color: rgb(10, 10, 10);
+  color: rgb(148, 141, 141);
   padding-top: 5px;
 }
 /*end h2*/
@@ -32,7 +32,7 @@ h3{
 
 /*start h4*/
 h4{
-  color: rgb(0, 0, 0);
+  color: white;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   padding: 5px;
