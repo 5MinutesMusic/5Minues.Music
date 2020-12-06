@@ -4,49 +4,43 @@ body{
 }
 /*end body*/
 
+
 /*start home page*/
 
-/*start h1-home page font*/
+/*start h1 ist home page font*/
 h1{
   font-family: Georgia, 'Times New Roman', Times, serif ;
   text-align: center;
   color: rgb(163, 30, 30);
 }
-/*end h1*/
+/*end h1 it is home page font*/
 
-/*start instrument font*/
+/*start font of instrument music page*/
 
+/* start font address*/
 h2{
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: black;
   padding-top: 5px;
 }
+/* end font address*/
 
-/*end instrument font*/
-
-/*start h2-insrtument music font*/
-h6{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: center;
-  color: rgb(255, 255, 255);
-  padding-top: 5px;
-}
-/*end h2*/
-
-/*start h3*/
+/*start string font*/
 h3{
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 0);
   text-align: center;
   padding-top: 5px;
 }
-/*end h3*/
+/*end string font*/
+
+/*end font of instrument music page*/
 
 /*start h4*/
 h4{
   color: rgb(255, 255, 255);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 /*end h4*/
@@ -54,8 +48,16 @@ h4{
 h5{
   font-family: Arial, Helvetica, sans-serif;
   color: black;
-  
+
 }
+
+/*start h2-insrtument music font*/
+h6{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: rgb(8, 8, 8);
+}
+/*end h2*/
 
 
 
