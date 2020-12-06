@@ -16,9 +16,9 @@ h1{
 
 /*start h2*/
 h2{
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: rgb(163, 159, 159);
   padding-top: 5px;
 }
 /*end h2*/
@@ -32,7 +32,7 @@ h3{
 
 /*start h4*/
 h4{
-  color: white;
+  color: rgb(158, 155, 155);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   padding: 5px;
