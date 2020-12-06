@@ -6,16 +6,16 @@ body{
 
 /*start home page*/
 
-/*start h1-home page font
+/*start h1-home page font*/
 h1{
   font-family: Georgia, 'Times New Roman', Times, serif ;
   text-align: center;
-  color: rgb(163, 30, 30);*/
+  color: rgb(163, 30, 30);
 }
 /*end h1*/
 
 /*start h2-insrtument music font*/
-h4{
+h6{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
   color: rgb(255, 255, 255);
