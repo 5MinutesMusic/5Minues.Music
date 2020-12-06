@@ -6,7 +6,7 @@ body{
 
 /*start home page*/
 
-/*start h1*/
+/*start h1-home page font*/
 h1{
   font-family: Georgia, 'Times New Roman', Times, serif ;
   text-align: center;
@@ -14,11 +14,11 @@ h1{
 }
 /*end h1*/
 
-/*start h2*/
+/*start h2-insrtument music font*/
 h2{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
-  color: rgb(148, 141, 141);
+  color: rgb(255, 255, 255);
   padding-top: 5px;
 }
 /*end h2*/
@@ -35,7 +35,7 @@ h4{
   color: white;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
-  padding: 5px;
+  padding-top: 5px;
 }
 /*end h4*/
 
