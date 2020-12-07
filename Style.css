@@ -30,7 +30,7 @@ h2{
 h3{
   font-family: 'Times New Roman', Times, serif;
   color: rgb(0, 0, 0);
-  text-align: center;
+  
 }
 /*end string font*/
 
@@ -77,6 +77,9 @@ p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: left;
   }
+
+
+
 
 @media (min-width: 768px) {
   .media .avatar-2 {
