@@ -117,7 +117,9 @@ audio{
 /*end footer for all page*/
 
 /*Start Channel Video*/
-
+.col-md-5{
+  border-radius: 0%;
+}
 
 /*End Channel Video*/
 
