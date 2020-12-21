@@ -117,7 +117,12 @@ audio{
 /*end footer for all page*/
 
 /*Start Channel Video*/
-
+[class*="video"] {
+  float: left;
+  padding: 330px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 /*End Channel Video*/
 
 
