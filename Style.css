@@ -4,7 +4,10 @@ body{
 }
 /*end body*/
 
+/* Start Navbar */
 
+
+/* End Navbar */
 /*start home page*/
 
 /*start h1 ist home page font*/
@@ -112,7 +115,7 @@ audio{
 .row{
   color: rgb(255, 255, 255);
   text-align: center;
-  padding-left: 50px;
+  padding-left: 45px;
 }
 /*end footer for all page*/
 
