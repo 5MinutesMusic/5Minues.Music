@@ -120,7 +120,9 @@ audio{
 /*end footer for all page*/
 
 /*Start Channel Video*/
-
+video {
+  height: auto;
+}
 
 
 /*End Channel Video*/
