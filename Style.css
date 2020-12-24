@@ -121,7 +121,9 @@ audio{
 
 /*Start Channel Video*/
 
-
+video{
+height: auto;
+}
 
 /*End Channel Video*/
 
