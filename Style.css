@@ -121,6 +121,7 @@ audio{
 
 /*Start Channel Video*/
 video {
+  width: 50%;
   height: auto;
 }
 
