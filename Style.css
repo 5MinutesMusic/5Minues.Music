@@ -42,6 +42,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif ;
     text-align: center;
     color: rgb(163, 30, 30);
+    
   }
   /*end h1 it is home page font*/
 
@@ -154,9 +155,5 @@
     height: auto;
   }
   /*End Channel Video*/
-
-  .card-body{
-    background-color: 196,196,196;
-  }
 
   
