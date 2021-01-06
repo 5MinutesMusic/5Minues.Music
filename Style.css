@@ -36,7 +36,10 @@
   }
 
   /*start home page*/
+.nav-item{
 
+  margin: auto;
+}
   /*start h1 ist home page font*/
   h1{
     font-family: Georgia, 'Times New Roman', Times, serif ;
@@ -120,6 +123,7 @@
 
   .card img.rounded-circle {
     border-radius: 50%;
+    margin-left: 10px;
   }
   /*End Instrumental Music*/
 
