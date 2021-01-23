@@ -1,29 +1,85 @@
-/*start body*/
-  body{
-    background-color:rgb(99, 25, 25);
-    margin: 0 auto;
-  }
-  /*end body*/
+/*Background*/
+body {
+  background-image: url(../5Minutes.Music/Images/background\ all.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+/*End Backgroun
 
-  /* Start Navbar */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  opacity: 0,7;
+}
+
+/*Navbar Background
+ul.topnav {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+  opacity:0,7 ;
+}
+/*Navbar Background*/
+
+/*Navbar algin*/
+ul.topnav li {
+  float: left;
+}
+/*End Navbar algin*/
+
+/*Navbar Font*/
+ul.topnav li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 10px 10px 10px 65px;
+  text-decoration: none;
+}
+/*End Navbar Font*/
+
+/*
+ul.topnav li a:hover:not(.active) {
+  background-color: #111;
+}*/
+
+/*
+ul.topnav li a.active {
+  background-color: #8f8f8f;
+}*/
+
+/*
+ul.topnav li.right {
+  float: right;
+}*/
+
+@media screen and (max-width: 600px) {
+
+  ul.topnav li.right,
+  ul.topnav li {
+    float: none;
+  }
+}
+
+  /* Start Navbar 
   .brand{
   float: left;
   text-align: center;
   padding-left: 20px;
-  }
+  }*/
 
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(199, 199, 199);
   }
-
+/*
   li {
     float: right;
   }
-
+/*
   li a {
     display: block;
     color: rgb(0, 0, 0);
@@ -34,7 +90,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-  /*start home page*/
+  /*start home page
 .nav-item{
 
   margin: auto;
@@ -44,7 +100,6 @@
     font-family: Georgia, 'Times New Roman', Times, serif ;
     text-align: center;
     color: rgb(163, 30, 30);
-    
   }
   /*end h1 it is home page font*/
 
@@ -70,7 +125,7 @@
 
   /*start h4*/
   h4{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
   }
@@ -106,7 +161,7 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     }
-  /*End Instrument Page*/
+  /*End Instrument Page
 
   @media (min-width: 768px) {
     .media .avatar-2 {
@@ -142,21 +197,85 @@
     }
   /*end audio*/
 
-  /*start footer for all page*/
-
-  /*social media logo*/
-  .row{
-    color: rgb(196, 196, 196);
-    text-align: center;
-    padding-left: 45px;
-  }
-  /*end footer for all page*/
-
-  /*Start Channel Video*/
-  video {
+   /*Start Channel Video*/
+   video {
     width: 100%;
     height: 100%;
   }
   /*End Channel Video*/
 
-  
+  /*start footer for all page*/
+ 
+
+  /*social media logo*/
+  .row{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-left: 4px;
+  }
+  /*end footer for all page*/
+
+  .footer1 {
+    height: 1000px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.9;
+  }
+
+  .footer {
+    height: 80px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.8;
+  }
+
+  .footer2 {
+    height: 4580px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    opacity: 0.9;
+  }
+
+  .footer3 {
+    height: 120px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.8;
+  }
+
+  .footer4 {
+    height: 690px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.9;
+  }
+
+  .footer6 {
+    height: 1400px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    opacity: 0.9;
+  }
+
+  .footer7 {
+    height: 9300px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    opacity: 0.9;
+  }
+
+  .footer8 {
+    height: 4500px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    opacity: 0.9;
+  }
+
+  .col-md-2{
+    padding: 15px 10px 10px 15px;
+  }
+
