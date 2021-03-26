@@ -224,6 +224,7 @@ ul.topnav li.right {
     opacity: 0.8;
   }
 
+  /*index*/
   .footer1 {
     height: 1000px;
     background-color: #f1f1f1;
@@ -232,6 +233,7 @@ ul.topnav li.right {
     opacity: 0.9;
   }
 
+  /*Music History*/
   .footer2 {
     height: 4580px;
     background-color: #f1f1f1;
@@ -247,6 +249,7 @@ ul.topnav li.right {
     opacity: 0.8;
   }
 
+  /*About Us*/
   .footer4 {
     height: 690px;
     background-color: #f1f1f1;
@@ -255,6 +258,7 @@ ul.topnav li.right {
     opacity: 0.9;
   }
 
+  /*Teaching Musical Note*/
   .footer6 {
     height: 1400px;
     background-color: #f1f1f1;
@@ -262,6 +266,7 @@ ul.topnav li.right {
     opacity: 0.9;
   }
 
+  /*Recordings*/
   .footer7 {
     height: 9300px;
     background-color: #f1f1f1;
@@ -269,6 +274,7 @@ ul.topnav li.right {
     opacity: 0.9;
   }
 
+  /*Instrumental Music*/
   .footer8 {
     height: 7800px;
     background-color: #f1f1f1;
