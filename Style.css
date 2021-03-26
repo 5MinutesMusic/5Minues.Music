@@ -215,20 +215,21 @@ ul.topnav li.right {
   }
   /*end footer for all page*/
 
-  .footer1 {
-    height: 1000px;
-    background-color: #f1f1f1;
-    padding: 10px;
-    text-align: center;
-    opacity: 0.9;
-  }
-
+  
   .footer {
     height: 80px;
     background-color: #f1f1f1;
     padding: 10px;
     text-align: center;
     opacity: 0.8;
+  }
+  
+  .footer1 {
+    height: 1000px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.9;
   }
 
   .footer2 {
