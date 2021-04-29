@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-/*End Backgroun
+/*End Backgroun*/
 
 /*Navbar Background*/
 
@@ -146,7 +146,7 @@ ul.topnav li a {
   .row{
     color: rgb(0, 0, 0);
     text-align: center;
-    padding-left: 4px;
+    padding-left: 2px;
   }
   /*end footer for all page*/
 
