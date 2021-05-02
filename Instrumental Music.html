@@ -131,7 +131,7 @@
                   The sound can be shaped or electronically altered to achieve different timbres or tonal qualities,
                   making it quite different than an acoustic guitar.
                   Often, this is done through the use of effects such as reverb, distortion, and "overdrive"; the latter
-                  is considered to be a key element of electric blues guitar music and rock guitar playing.
+                  is considered to be a key element of electric blues guitar music and <span id="dots">...</span><span id="more"> rock guitar playing.
                   Invented in 1932, the electric guitar was adopted by jazz guitar players, who wanted to play
                   single-note guitar solos in large big band ensembles.
                   Early proponents of the electric guitar on record include Les Paul, Lonnie Johnson, Sister Rosetta
@@ -158,7 +158,8 @@
                   solos.
                   In a small group, such as a power trio, one guitarist switches between both roles.
                   In large rock and metal bands, there is often a rhythm guitarist and a lead guitarist.
-                </p>
+                </span></p>
+                <button onclick="myFunction()" id="myBtn">Read more</button>
               </div>
             </div>
             <!--Electric Guitar-->
@@ -620,7 +621,23 @@
   </div>
 
 
-
+  <script>
+    function myFunction() {
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("myBtn");
+    
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.innerHTML = "Read more"; 
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "Read less"; 
+        moreText.style.display = "inline";
+      }
+    }
+    </script>
 </body>
 
 </html>
