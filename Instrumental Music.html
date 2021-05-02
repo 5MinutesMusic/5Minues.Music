@@ -5,12 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="Style.css">
+  <script src="Java.js"></script>
   <title>Instrumental Music</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
     integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-  <link rel="stylesheet" href="Style.css">
+  
 
 </head>
 
@@ -259,7 +261,7 @@
                   the bass trumpet, which is pitched one octave below the standard B♭ or C Trumpet.
                   Trumpet-like instruments have historically been used as signaling devices in battle or hunting, with
                   examples dating back to at least 1500 BCE.
-                  They began to be used as musical instruments only in the late 14th or early 15th century.
+                  They began to be used as musical instruments only in the late 14th or early 15th century.<span id="dots">...</span><span id="more">
                   Trumpets are used in art music styles, for instance in orchestras, concert bands, and jazz ensembles,
                   as well as in popular music. They are played by blowing air through nearly-closed lips (called the
                   player's embouchure), producing a "buzzing" sound that starts a standing wave vibration in the air
@@ -277,7 +279,8 @@
                   German-style orchestras), although this practice varies by country.
                   Each valve, when engaged, increases the length of tubing, lowering the pitch of the instrument.
                   A musician who plays the trumpet is called a trumpet player or trumpeter.
-                </p>
+                </span></p>
+                <button onclick="myFunction()" id="myBtn">Read more..</button>
               </div>
             </div>
             <!--Trumpet-->
@@ -620,7 +623,7 @@
     </div>
   </div>
 
-
+  
   <script>
     function myFunction() {
       var dots = document.getElementById("dots");
@@ -638,6 +641,7 @@
       }
     }
     </script>
+
 </body>
 
 </html>
