@@ -220,3 +220,5 @@ ul.topnav li a {
   .col-md-2{
     padding: 15px 10px 10px 15px;
   }
+  
+  #more {display: none;}
